@@ -5,6 +5,18 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 
+.site-header {
+    border-bottom: 1px solid white;
+}
+
+.sitebar-toggle {
+    color: white;
+}
+
+.widget-title {
+    color: white;
+}
+
 .site-title a {
     color: white;
     font-family: "Avenir", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", "sans-serif";
