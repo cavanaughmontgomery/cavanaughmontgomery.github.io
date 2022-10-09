@@ -9,8 +9,16 @@
     border-bottom: 1px solid white;
 }
 
-.sitebar-toggle {
-    color: white;
+.sidebar-toggle {
+    color: white !important;
+}
+
+.sidebar-toggle:focus {
+    color: black !important;
+}
+
+.sidebar-toggle:hover {
+    color: black !important;
 }
 
 .widget-title {
